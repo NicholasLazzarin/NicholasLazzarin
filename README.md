@@ -17,7 +17,6 @@
 Sou um estudante de Análise e desenvolvimento de sistemas apaixonado por tecnologia e estou iniciando minha carreira na área de **Qualidade de Software (QA)**.  
 Atualmente, estou aprendendo a planejar e executar **testes manuais**, elaborar **casos de teste**, aplicar **técnicas de verificação** e identificar **valores-limite** para garantir que os sistemas entreguem a melhor experiência possível.
 
-Tenho interesse em compreender **todo o processo de qualidade**, desde a análise de requisitos até o reporte de bugs, e meu objetivo é construir uma base sólida para futuramente evoluir em **automação de testes**.
 
 ---
 
