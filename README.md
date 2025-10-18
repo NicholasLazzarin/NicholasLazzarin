@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Nicholas!</h1>
 
 <p align="center">
-🎯 <b>QA Júnior em formação</b> &nbsp;|&nbsp; 💻 Estudante de Qualidade e Teste de Software  
+🎯 <b>QA Júnior em formação</b> &nbsp;|&nbsp; 💻 Estudante de Análise e Desenvolvimento de Ssitemas 
 </p>
 
 <p align="center">
