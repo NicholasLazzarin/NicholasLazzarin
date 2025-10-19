@@ -1,59 +1,24 @@
-<h1 align="center">👋 Olá, eu sou o Nicholas!</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="center">
-🎯 <b>QA Júnior em formação</b> &nbsp;|&nbsp; 💻 Estudante de Análise e Desenvolvimento de Ssitemas 
+<p align="left"> 
+ Olá!👋 <br> 
+Me chamo Nicholas, sou estudante de Análise e Desenvolvimento de Sistemas, atualmente focado em me tornar <strong>Análista de QA</strong>.<br> Tenho estudado técnicas de testes manuais, automação e metodologias ágeis para garantir entregas de software com qualidade e eficiência
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-em_aprendizado-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/foco-testes_manuais-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/área-qualidade_de_software-lightgrey?style=for-the-badge"/>
+
+<p align="left">
+  💼 Ferramentas: Jira, Postman, Selenium, Python, SQL.
 </p>
 
----
+<p align="left">
+  💌 Por aqui você pode entrar em contato comigo: ⤵️
+</p>
 
-## 🧠 Sobre mim
-
-Sou um estudante de Análise e desenvolvimento de sistemas apaixonado por tecnologia e estou iniciando minha carreira na área de **Qualidade de Software (QA)**.  
-Atualmente, estou aprendendo a planejar e executar **testes manuais**, elaborar **casos de teste**, aplicar **técnicas de verificação** e identificar **valores-limite** para garantir que os sistemas entreguem a melhor experiência possível.
-
-
----
-
-## 🧩 O que estou estudando
-
-- 🧪 Planejamento e execução de **testes manuais**  
-- 📋 Criação de **casos e cenários de teste**  
-- 🔍 Técnicas: **Particionamento de equivalência** e **Valores limite**  
-- 🐞 **Ciclo de vida de defeitos** e boas práticas de reporte  
-- 🧰 Ferramentas:
-  - **Jira** – gerenciamento de bugs e histórias
-  - **Google Sheets / TestLink** – gestão de casos de teste
-  - **Postman** – primeiros testes de API
-
----
-
-## 🚀 Próximos passos
-
-- Desenvolver **projetos práticos** de testes manuais  
-- Iniciar estudos em **Cypress ou Selenium**  
-- Aprender **SQL básico** e **testes de API**  
-- Contribuir com **projetos open source** de QA  
-
----
-
-## 📁 Projetos (em breve)
-
-| Projeto | Descrição | Status |
-|----------|------------|---------|
-| 🧪 **Testes manuais - Aplicativo de transporte fictício** | Planejamento de casos de teste e execução prática | 🟡 Em desenvolvimento |
-| 🐞 **Relatório de bugs - App de cadastro** | Simulação de reporte de bugs e priorização | 🔜 Em breve |
-| 🌐 **Coleção Postman - API pública** | Testes simples de endpoints e validações de resposta | 🔜 Em breve |
-
----
-
-## 📬 Contato
-
-📧 **Email:** nicholaslazzarin90@gmail.com 
-🔗 **LinkedIn:** [linkedin.com/in/nicholaslazzarin](https://www.linkedin.com/in/nicholaslazzarin)
-
+<p align="left">
+  <a href="mailto:nicholaslazzarin@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nicholaslazzarin" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
